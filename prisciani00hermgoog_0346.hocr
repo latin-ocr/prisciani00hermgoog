@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prisciani00hermgoog/prisciani00hermgoog_0346.png"; bbox 0 0 2834 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 368 1559 890 1761">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 368 1481 890 1761">
+     <span class='ocr_line' id='line_1_1' title="bbox 368 1559 890 1761; baseline -0.002 -67"><span class='ocrx_word' id='word_1_1' title='bbox 368 1559 890 1761; x_wconf 63' lang='lat' dir='ltr'><strong>NOTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 590 1998 744 2074">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 590 1998 744 2074">
+     <span class='ocr_line' id='line_1_2' title="bbox 590 1998 744 2074; baseline 0 -22"><span class='ocrx_word' id='word_1_2' title='bbox 590 1998 744 2074; x_wconf 17' lang='lat' dir='ltr'>A»,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 167 2342 1090 2433">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 167 2342 1090 2433">
+     <span class='ocr_line' id='line_1_3' title="bbox 167 2342 1090 2433; baseline -0.004 -9"><span class='ocrx_word' id='word_1_3' title='bbox 167 2342 379 2433; x_wconf 78' lang='lat' dir='ltr'><strong>LIBRUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 407 2351 477 2426; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 507 2347 772 2427; x_wconf 82' lang='lat' dir='ltr'>VERSIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 802 2345 1090 2427; x_wconf 66' lang='lat' dir='ltr'><strong>munos.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1422 4800">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1422 4800">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1422 4800; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1422 4800; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
